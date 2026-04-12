@@ -135,6 +135,14 @@
       "shippingCost": 3.99,
       "freeShippingAbove": 49,
       "deliveryDays": "1-3 werkdagen"
+    },
+    {
+      "id": "etos",
+      "name": "Etos",
+      "url": "https://www.etos.nl",
+      "shippingCost": 3.99,
+      "freeShippingAbove": 30,
+      "deliveryDays": "1-2 werkdagen"
     }
   ],
   "products": [
@@ -1332,6 +1340,12 @@
           "price": 10.99,
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-renu-mps-lensvloeistof/p/5495120",
           "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 11.29,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-mps-sensitive-eyes-lenzenvloeistof-240-ml-110002189.html",
+          "lastChecked": "2026-04-12"
         }
       ]
     },
@@ -1658,6 +1672,12 @@
           "price": 14.99,
           "productUrl": "",
           "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 11.29,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-cleaner-lenzenvloeistof-30-ml-110002242.html",
+          "lastChecked": "2026-04-12"
         }
       ]
     },
@@ -1680,6 +1700,12 @@
           "shopId": "lensdeal",
           "price": 9.49,
           "productUrl": "",
+          "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 11.99,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-conditioning-solution-lenzenvloeistof-120-ml-110002251.html",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -1897,6 +1923,12 @@
           "shopId": "lensdeal",
           "price": 13.49,
           "productUrl": "",
+          "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 16.39,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-easysept-lenzenvloeistof-360-ml-110723744.html",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -2308,6 +2340,12 @@
           "price": 10.0,
           "productUrl": "https://www.lensonline.nl/renu-mps-sensitive-eyes-flight-pack-100ml/",
           "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 9.99,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-mps-flight-pack-sensitive-eyes-100-ml-112123304.html",
+          "lastChecked": "2026-04-12"
         }
       ]
     },
@@ -2460,6 +2498,12 @@
           "shopId": "123lens",
           "price": 11.78,
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/bausch-and-lomb-renu-multiplus/",
+          "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "etos",
+          "price": 11.99,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-multi-plus-fresh-lens-comfort-240-ml-120116163.html",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -3856,7 +3900,7 @@
     {
       "id": "ocu-ocucare-comfort-350ml",
       "name": "OcuCare Comfort 350ml",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "soft"
@@ -3877,7 +3921,7 @@
     {
       "id": "ocu-ocucare-comfort-60ml",
       "name": "OcuCare Comfort 60ml",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "soft"
@@ -3898,7 +3942,7 @@
     {
       "id": "ocu-ocucare-groen-vernieuwde-formule-100ml",
       "name": "OcuCare Groen 100ml (vernieuwde formule)",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "hard",
@@ -3921,7 +3965,7 @@
     {
       "id": "ocu-ocucare-groen-vernieuwde-formule-200ml",
       "name": "OcuCare Groen 200ml (vernieuwde formule)",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "hard",
@@ -3944,7 +3988,7 @@
     {
       "id": "ocu-ocuclean-vernieuwde-formule-30ml",
       "name": "OcuClean 30ml (vernieuwde formule)",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "reiniging",
       "compatibleLensTypes": [
         "hard",
@@ -3967,7 +4011,7 @@
     {
       "id": "ocu-oculens-cleaner-40ml",
       "name": "Oculens Cleaner 40ml",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "reiniging",
       "compatibleLensTypes": [
         "hard",
@@ -3990,7 +4034,7 @@
     {
       "id": "ocu-ocurins-ampullen-",
       "name": "OcuRins Ampullen",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "inzet",
       "compatibleLensTypes": [
         "soft",
@@ -4015,7 +4059,7 @@
     {
       "id": "ocu-ocusaline-ampullen-",
       "name": "OcuSaline Ampullen",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "spoeling",
       "compatibleLensTypes": [
         "soft",
@@ -4040,7 +4084,7 @@
     {
       "id": "ocu-ocusept-",
       "name": "OcuSept",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "soft"
@@ -4061,7 +4105,7 @@
     {
       "id": "ocu-ocuzyme-",
       "name": "OcuZyme",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "reiniging",
       "compatibleLensTypes": [
         "hard",
@@ -4186,29 +4230,6 @@
           "shopId": "lensdeal",
           "price": 10.49,
           "productUrl": "",
-          "lastChecked": "2026-04-12"
-        }
-      ]
-    },
-    {
-      "id": "onbekend-bausch-lomb-concentrated-cleaner-lensreiniger-30ml",
-      "name": "Bausch & Lomb Concentrated Cleaner Lensreiniger 30ml",
-      "brand": "Bausch & Lomb",
-      "category": "reiniging",
-      "compatibleLensTypes": [
-        "hard",
-        "scleral",
-        "ortho_k"
-      ],
-      "volumeMl": 30,
-      "units": null,
-      "totalVolumeMl": null,
-      "description": "",
-      "prices": [
-        {
-          "shopId": "kruidvat",
-          "price": 10.99,
-          "productUrl": "https://www.kruidvat.nl/bausch-lomb-concentrated-cleaner-lensreiniger/p/5496051",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -4377,7 +4398,7 @@
     {
       "id": "onbekend-vloeistofpakket-occ-",
       "name": "Vloeistofpakket OCC",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "hard",
@@ -4400,7 +4421,7 @@
     {
       "id": "onbekend-vloeistofpakket-sra-",
       "name": "Vloeistofpakket SRA",
-      "brand": "Ocu",
+      "brand": "Oculenti",
       "category": "alles_in_1",
       "compatibleLensTypes": [
         "hard",
@@ -5027,6 +5048,226 @@
           "shopId": "lens_nl",
           "price": 59.0,
           "productUrl": "https://www.lens.nl/Regard-zacht-voordeelpakket/185",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-zachte-lenzen-all-in-360ml",
+      "name": "Etos Zachte Lenzen All-in-1 Vloeistof 360 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 5.69,
+          "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-all-in-1-vloeistof-360-ml-120288475.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-zachte-lenzen-no-rub-360ml",
+      "name": "Etos Zachte Lenzen No Rub All-in-1 Vloeistof 360 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 6.79,
+          "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-no-rub-all-in-1-vloeistof-360-ml-120288504.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-all-in-zachte-lenzen-100ml",
+      "name": "Etos All-in-1 Zachte Lenzen Vloeistof 100 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 100,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 2.09,
+          "productUrl": "https://www.etos.nl/producten/etos-all-in-1-zachte-lenzen-vloeistof-100-ml-111151944.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-conditioner-harde-lenzen-100ml",
+      "name": "Etos Conditioner Harde Lenzen Vloeistof 100 ML",
+      "brand": "Etos",
+      "category": "bewaar",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": 100,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 4.29,
+          "productUrl": "",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-all-in-harde-lenzen-100ml",
+      "name": "Etos All-in-1 Harde Lenzen Vloeistof 100 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": 100,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 2.09,
+          "productUrl": "https://www.etos.nl/producten/etos-all-in-1-harde-lenzen-vloeistof-100-ml-111151936.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "bauschlomb-bausch-lomb-concentrated-cleaner-30ml",
+      "name": "Bausch + Lomb Concentrated Cleaner Lenzenvloeistof 30 ML",
+      "brand": "Bausch & Lomb",
+      "category": "reiniging",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 30,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 11.29,
+          "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-concentrated-cleaner-lenzenvloeistof-30-ml-110002171.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "unicare-unicare-vitaaie-zachte-lenzen-250ml",
+      "name": "Unicare vita+aie vloeistof zachte lenzen 250 ML",
+      "brand": "Unicare",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 250,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 11.99,
+          "productUrl": "https://www.etos.nl/producten/unicare-vita%2Baie-vloeistof-zachte-lenzen-250-ml-120903204.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-cleaner-alle-typen-lenzen-40ml",
+      "name": "Etos Cleaner Alle Typen Lenzen 40 ML",
+      "brand": "Etos",
+      "category": "reiniging",
+      "compatibleLensTypes": [
+        "soft",
+        "hard",
+        "scleral",
+        "hybrid",
+        "ortho_k"
+      ],
+      "volumeMl": 40,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 4.49,
+          "productUrl": "https://www.etos.nl/producten/etos-cleaner-alle-typen-lenzen-40-ml-120331453.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-harde-lenzen-all-in-360ml",
+      "name": "Etos Harde Lenzen All-in-1 Vloeistof 360 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": 360,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 4.59,
+          "productUrl": "https://www.etos.nl/producten/etos-harde-lenzen-all-in-1-vloeistof-360-ml-120288539.html",
+          "lastChecked": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "id": "etos-etos-zachte-lenzen-no-rub-100ml",
+      "name": "Etos Zachte Lenzen No Rub All-in-1 Vloeistof 100 ML",
+      "brand": "Etos",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 100,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "etos",
+          "price": 2.49,
+          "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-no-rub-all-in-1-vloeistof-100-ml-120331533.html",
           "lastChecked": "2026-04-12"
         }
       ]
