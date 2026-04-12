@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-04-12",
+    "description": "Ocu prijsvergelijker - lenzenvloeistof en inzetampullen",
+    "contact": "info@ocu.nl"
+  },
+  "lensTypes": [
+    { "id": "soft", "label": "Zachte lenzen" },
+    { "id": "hard", "label": "Harde lenzen (RGP)" },
+    { "id": "scleral", "label": "Sclerale lenzen" },
+    { "id": "hybrid", "label": "Hybride lenzen" },
+    { "id": "ortho_k", "label": "Nachtlenzen (Ortho-K)" }
+  ],
+  "categories": [
+    { "id": "bewaar", "label": "Bewaarvloeistof", "icon": "bottle" },
+    { "id": "alles_in_1", "label": "Alles-in-1 vloeistof", "icon": "bottle" },
+    { "id": "inzet", "label": "Inzetvloeistof / ampullen", "icon": "ampul" },
+    { "id": "spoeling", "label": "Spoelvloeistof", "icon": "drop" },
+    { "id": "reiniging", "label": "Reiniger", "icon": "clean" }
+  ],
+  "shops": [
+    {
+      "id": "lensesonly",
+      "name": "Lenses Only",
+      "url": "https://www.lensesonly.nl",
+      "logo": "lensesonly.png",
+      "shippingCost": 3.95,
+      "freeShippingAbove": 25.00,
+      "deliveryDays": "1-2 werkdagen"
+    },
+    {
+      "id": "visiondirect",
+      "name": "Vision Direct",
+      "url": "https://www.visiondirect.nl",
+      "logo": "visiondirect.png",
+      "shippingCost": 3.99,
+      "freeShippingAbove": 49.00,
+      "deliveryDays": "1-3 werkdagen"
+    },
+    {
+      "id": "lenzenvoordeel",
+      "name": "Lenzen Voordeel",
+      "url": "https://www.lenzenvoordeel.nl",
+      "logo": "lenzenvoordeel.png",
+      "shippingCost": 2.95,
+      "freeShippingAbove": 30.00,
+      "deliveryDays": "1-2 werkdagen"
+    },
+    {
+      "id": "pearl",
+      "name": "Pearle",
+      "url": "https://www.pearle.nl",
+      "logo": "pearle.png",
+      "shippingCost": 4.95,
+      "freeShippingAbove": 50.00,
+      "deliveryDays": "2-4 werkdagen"
+    },
+    {
+      "id": "lensway",
+      "name": "Lensway",
+      "url": "https://www.lensway.nl",
+      "logo": "lensway.png",
+      "shippingCost": 3.95,
+      "freeShippingAbove": 39.00,
+      "deliveryDays": "2-5 werkdagen"
+    },
+    {
+      "id": "easylens",
+      "name": "Easylens",
+      "url": "https://www.easylens.nl",
+      "logo": "easylens.png",
+      "shippingCost": 3.50,
+      "freeShippingAbove": 35.00,
+      "deliveryDays": "1-3 werkdagen"
+    },
+    {
+      "id": "123optics",
+      "name": "123optics",
+      "url": "https://www.123optics.nl",
+      "logo": "123optics.png",
+      "shippingCost": 3.95,
+      "freeShippingAbove": 40.00,
+      "deliveryDays": "2-4 werkdagen"
+    },
+    {
+      "id": "contactlenzenman",
+      "name": "Contactlenzenman",
+      "url": "https://www.contactlenzenman.nl",
+      "logo": "contactlenzenman.png",
+      "shippingCost": 2.95,
+      "freeShippingAbove": 25.00,
+      "deliveryDays": "1-2 werkdagen"
+    }
+  ],
+  "products": [
+    {
+      "id": "boston-simplus-120",
+      "name": "Boston Simplus Multi-Action",
+      "brand": "Bausch + Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["hard", "ortho_k"],
+      "volumeMl": 120,
+      "description": "Alles-in-1 oplossing voor harde contactlenzen. Reinigt, spoelt, desinfecteert en bewaart.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 12.95,
+          "productUrl": "https://www.lensesonly.nl/boston-simplus-120ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 13.49,
+          "productUrl": "https://www.visiondirect.nl/boston-simplus-120ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lenzenvoordeel",
+          "price": 11.99,
+          "productUrl": "https://www.lenzenvoordeel.nl/boston-simplus-120ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "pearl",
+          "price": 14.50,
+          "productUrl": "https://www.pearle.nl/boston-simplus-120ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "boston-simplus-360",
+      "name": "Boston Simplus Multi-Action",
+      "brand": "Bausch + Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["hard", "ortho_k"],
+      "volumeMl": 360,
+      "description": "Alles-in-1 oplossing voor harde contactlenzen. Grote fles.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 19.95,
+          "productUrl": "https://www.lensesonly.nl/boston-simplus-360ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 21.99,
+          "productUrl": "https://www.visiondirect.nl/boston-simplus-360ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lenzenvoordeel",
+          "price": 18.49,
+          "productUrl": "https://www.lenzenvoordeel.nl/boston-simplus-360ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "menicare-plus-250",
+      "name": "MeniCare Plus",
+      "brand": "Menicon",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["hard", "scleral", "ortho_k"],
+      "volumeMl": 250,
+      "description": "Alles-in-1 vloeistof voor harde en sclerale lenzen. Reinigt, desinfecteert en bewaart.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 16.95,
+          "productUrl": "https://www.lensesonly.nl/menicare-plus-250ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 17.50,
+          "productUrl": "https://www.visiondirect.nl/menicare-plus-250ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 15.99,
+          "productUrl": "https://www.contactlenzenman.nl/menicare-plus-250ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "menicon-progent-5",
+      "name": "Progent Intensiefreiniger",
+      "brand": "Menicon",
+      "category": "reiniging",
+      "compatibleLensTypes": ["hard", "scleral", "ortho_k"],
+      "volumeMl": null,
+      "units": "5 behandelingen",
+      "description": "Intensieve eiwitverwijderaar voor harde en sclerale lenzen. Wekelijks gebruik.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 14.95,
+          "productUrl": "https://www.lensesonly.nl/menicon-progent-5",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 15.99,
+          "productUrl": "https://www.visiondirect.nl/menicon-progent-5",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 13.50,
+          "productUrl": "https://www.contactlenzenman.nl/menicon-progent-5",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "nacl-ampullen-30",
+      "name": "NaCl 0.9% Ampullen",
+      "brand": "Diverse",
+      "category": "inzet",
+      "compatibleLensTypes": ["scleral"],
+      "volumeMl": 5,
+      "units": "30 ampullen x 5ml",
+      "totalVolumeMl": 150,
+      "description": "Steriele zoutoplossing in wegwerpampullen. Voor het vullen van sclerale lenzen.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 8.95,
+          "productUrl": "https://www.lensesonly.nl/nacl-ampullen-30",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 7.50,
+          "productUrl": "https://www.contactlenzenman.nl/nacl-ampullen-30",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "nacl-ampullen-60",
+      "name": "NaCl 0.9% Ampullen",
+      "brand": "Diverse",
+      "category": "inzet",
+      "compatibleLensTypes": ["scleral"],
+      "volumeMl": 5,
+      "units": "60 ampullen x 5ml",
+      "totalVolumeMl": 300,
+      "description": "Steriele zoutoplossing in wegwerpampullen. Voordeelverpakking.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 14.95,
+          "productUrl": "https://www.lensesonly.nl/nacl-ampullen-60",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 13.25,
+          "productUrl": "https://www.contactlenzenman.nl/nacl-ampullen-60",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "nutrifill-10",
+      "name": "Nutrifill",
+      "brand": "Contamac",
+      "category": "inzet",
+      "compatibleLensTypes": ["scleral"],
+      "volumeMl": 10,
+      "units": "10 ampullen x 10ml",
+      "totalVolumeMl": 100,
+      "description": "Speciaal ontwikkeld voor het vullen van sclerale lenzen. Bevat hyaluronzuur voor extra comfort.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 24.95,
+          "productUrl": "https://www.lensesonly.nl/nutrifill-10",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 26.50,
+          "productUrl": "https://www.visiondirect.nl/nutrifill-10",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "lacripure-30",
+      "name": "LacriPure",
+      "brand": "Menicon",
+      "category": "inzet",
+      "compatibleLensTypes": ["scleral"],
+      "volumeMl": 5,
+      "units": "30 ampullen x 5ml",
+      "totalVolumeMl": 150,
+      "description": "Gepreserveerde zoutoplossing voor sclerale lenzen. Langere houdbaarheid na openen.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 19.95,
+          "productUrl": "https://www.lensesonly.nl/lacripure-30",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 18.50,
+          "productUrl": "https://www.contactlenzenman.nl/lacripure-30",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "biotrue-300",
+      "name": "Biotrue Multi-Purpose",
+      "brand": "Bausch + Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["soft"],
+      "volumeMl": 300,
+      "description": "Alles-in-1 oplossing voor zachte contactlenzen. Geïnspireerd op de biologie van het oog.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 12.95,
+          "productUrl": "https://www.lensesonly.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 11.99,
+          "productUrl": "https://www.visiondirect.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lenzenvoordeel",
+          "price": 10.49,
+          "productUrl": "https://www.lenzenvoordeel.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lensway",
+          "price": 12.50,
+          "productUrl": "https://www.lensway.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "123optics",
+          "price": 11.75,
+          "productUrl": "https://www.123optics.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "easylens",
+          "price": 11.49,
+          "productUrl": "https://www.easylens.nl/biotrue-300ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "optifree-puremoist-300",
+      "name": "OptiFree PureMoist",
+      "brand": "Alcon",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["soft"],
+      "volumeMl": 300,
+      "description": "Multi-purpose oplossing met HydraGlyde vochtlaag. Voor zachte contactlenzen.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 14.95,
+          "productUrl": "https://www.lensesonly.nl/optifree-puremoist-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 13.99,
+          "productUrl": "https://www.visiondirect.nl/optifree-puremoist-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lenzenvoordeel",
+          "price": 12.95,
+          "productUrl": "https://www.lenzenvoordeel.nl/optifree-puremoist-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "pearl",
+          "price": 15.50,
+          "productUrl": "https://www.pearle.nl/optifree-puremoist-300ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "lensway",
+          "price": 14.25,
+          "productUrl": "https://www.lensway.nl/optifree-puremoist-300ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "renu-multiplus-360",
+      "name": "ReNu MultiPlus",
+      "brand": "Bausch + Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": ["soft"],
+      "volumeMl": 360,
+      "description": "Multi-purpose vloeistof voor zachte lenzen. Reinigt, desinfecteert en bewaart.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 11.95,
+          "productUrl": "https://www.lensesonly.nl/renu-multiplus-360ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 12.49,
+          "productUrl": "https://www.visiondirect.nl/renu-multiplus-360ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "easylens",
+          "price": 10.99,
+          "productUrl": "https://www.easylens.nl/renu-multiplus-360ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "123optics",
+          "price": 11.50,
+          "productUrl": "https://www.123optics.nl/renu-multiplus-360ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "boston-advance-120",
+      "name": "Boston Advance Bewaarvloeistof",
+      "brand": "Bausch + Lomb",
+      "category": "bewaar",
+      "compatibleLensTypes": ["hard", "scleral", "ortho_k"],
+      "volumeMl": 120,
+      "description": "Bewaarvloeistof voor harde contactlenzen. Comfort formula met extra bevochtiging.",
+      "prices": [
+        {
+          "shopId": "lensesonly",
+          "price": 11.50,
+          "productUrl": "https://www.lensesonly.nl/boston-advance-120ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "visiondirect",
+          "price": 12.99,
+          "productUrl": "https://www.visiondirect.nl/boston-advance-120ml",
+          "lastChecked": "2026-04-10"
+        },
+        {
+          "shopId": "contactlenzenman",
+          "price": 10.95,
+          "productUrl": "https://www.contactlenzenman.nl/boston-advance-120ml",
+          "lastChecked": "2026-04-10"
+        }
+      ]
+    }
+  ]
+}
