@@ -143,6 +143,14 @@
       "shippingCost": 3.99,
       "freeShippingAbove": 30,
       "deliveryDays": "1-2 werkdagen"
+    },
+    {
+      "id": "lens2day",
+      "name": "Lens2Day",
+      "url": "https://www.lens2day.nl",
+      "shippingCost": 3.95,
+      "freeShippingAbove": 50,
+      "deliveryDays": "1-3 werkdagen"
     }
   ],
   "products": [
@@ -165,7 +173,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/123-lens-alles-in-een-no-rub-lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "123 no-rub alles-in-een"
     },
     {
       "id": "123lens-sensation-alles-in-n-",
@@ -186,7 +195,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/123-lens-sensation/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "123 sensation alles-in-een"
     },
     {
       "id": "123lens-sensation-flight-",
@@ -207,7 +217,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/123-lens-sensation-flight-pack/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "123 sensation [flight-pack]"
     },
     {
       "id": "abbott-oxysept-3x300ml",
@@ -228,7 +239,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "oxysept 3x300 ml"
     },
     {
       "id": "abbott-oxysept-step-300ml",
@@ -255,7 +267,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "oxysept 1 step 300ml"
     },
     {
       "id": "abbott-oxysept-step-multipack-3x300ml",
@@ -276,7 +289,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "oxysept 1 step multipack 3x300ml"
     },
     {
       "id": "alcon-aosept-plus-360ml",
@@ -297,7 +311,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus 360ml"
     },
     {
       "id": "alcon-aosept-plus-4x360ml",
@@ -318,7 +333,8 @@
           "productUrl": "https://www.lensonline.nl/aosept-plus-4x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus (4x360ml)"
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-360ml",
@@ -339,7 +355,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde 360ml"
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-duopack-3x720ml",
@@ -360,7 +377,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde duopack 3 x 720ml +..."
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-duopack-720ml",
@@ -381,7 +399,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde duopack 720ml"
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-months-5x360ml",
@@ -402,7 +421,8 @@
           "productUrl": "https://www.lensonline.nl/aosept-plus-hydraglyde-6-months-5x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde 6 months (5x360ml)"
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-multipack-5x360ml",
@@ -423,7 +443,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde multipack 5x360ml"
     },
     {
       "id": "alcon-aosept-plus-hydraglyde-travel-90ml",
@@ -444,7 +465,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde travel pack 90ml"
     },
     {
       "id": "alcon-aosept-plus-multipack-4x360ml",
@@ -465,7 +487,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus multipack 4x360ml"
     },
     {
       "id": "alcon-opti-free-express-2x355ml",
@@ -486,7 +509,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express lenzenvloeistof 2 x 355 ml"
     },
     {
       "id": "alcon-opti-free-express-355ml",
@@ -513,7 +537,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express 355ml"
     },
     {
       "id": "alcon-opti-free-express-3x355ml",
@@ -534,7 +559,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express lenzenvloeistof 3 x 355 ml"
     },
     {
       "id": "alcon-opti-free-express-maand-1x355ml",
@@ -555,7 +581,8 @@
           "productUrl": "https://www.lensonline.nl/opti-free-express-1-maand-1x-355ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express 1 maand (1x 355ml)"
     },
     {
       "id": "alcon-opti-free-express-maanden-3x355ml",
@@ -576,7 +603,8 @@
           "productUrl": "https://www.lensonline.nl/opti-free-express-6-maanden-3x-355ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express 6 maanden (3x 355ml)"
     },
     {
       "id": "alcon-opti-free-express-multipack-3x355ml",
@@ -597,7 +625,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free express multipack 3x355ml"
     },
     {
       "id": "alcon-opti-free-puremoist-",
@@ -618,7 +647,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/alcon-optifree-puremoist/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist"
     },
     {
       "id": "alcon-opti-free-puremoist-2x300ml",
@@ -639,7 +669,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist lenzenvloeistof 2 x 300 ml"
     },
     {
       "id": "alcon-opti-free-puremoist-300ml",
@@ -666,7 +697,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist 300ml"
     },
     {
       "id": "alcon-opti-free-puremoist-3x300ml",
@@ -693,7 +725,8 @@
           "productUrl": "https://www.lensonline.nl/opti-free-puremoist-3x-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist lenzenvloeistof 3 x 300 ml"
     },
     {
       "id": "alcon-opti-free-puremoist-90ml",
@@ -714,7 +747,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist lenzenvloeistof 90 ml"
     },
     {
       "id": "alcon-opti-free-puremoist-alles-in-1x300ml",
@@ -735,7 +769,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/opti-free-puremoist-alles-in-een-lenzenvloeistof-1x-300ml/9200000089500429/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist alles-in-een lenzenvloeistof | 1x 300ml"
     },
     {
       "id": "alcon-opti-free-puremoist-flight-",
@@ -756,7 +791,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/alcon-optifree-puremoist-flight-pack/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist [flight-pack]"
     },
     {
       "id": "alcon-opti-free-puremoist-maand-1x300ml",
@@ -777,7 +813,8 @@
           "productUrl": "https://www.lensonline.nl/opti-free-puremoist-1-maand-1x-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist 1 maand (1x 300ml)"
     },
     {
       "id": "alcon-opti-free-puremoist-megapack-4x300ml",
@@ -804,7 +841,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/opti-free-puremoist-megapack-lenzenvloeistof-4x-300ml/9300000089242470/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "[opti-free puremoist megapack 4x300ml ]..."
     },
     {
       "id": "alcon-opti-free-puremoist-travel-90ml",
@@ -825,7 +863,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist travel pack 90ml"
     },
     {
       "id": "alcon-opti-free-puremoist-triple-3x300ml",
@@ -846,7 +885,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "opti-free puremoist triple pack 3x300ml"
     },
     {
       "id": "alcon-optifree-express-3x355ml",
@@ -867,7 +907,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/optifree-express-3x355ml-lenzenvloeistof-zachte-lenzen/9300000187994034/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "optifree express - 3x355ml - lenzenvloeistof - zachte lenzen"
     },
     {
       "id": "alcon-optifree-puremoist-1x90ml",
@@ -888,7 +929,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/optifree-puremoist-lenzenvloeistof-1x-90ml/9200000040166628/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "optifree puremoist lenzenvloeistof - 1x 90ml"
     },
     {
       "id": "alcon-optifree-puremoist-3x300ml",
@@ -909,7 +951,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/opti-free-puremoist-3-x-300-ml/9300000076744008/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "optifree puremoist 3x300ml"
     },
     {
       "id": "alllens-all-lens-alles-in-250ml",
@@ -930,7 +973,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/all-lens-alles-in-een-250ml-p-54646.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "all lens alles in een 250ml"
     },
     {
       "id": "avizor-avizor-gp-multi-120ml",
@@ -953,7 +997,8 @@
           "productUrl": "https://www.lens.nl/Avizor-GP-Multi-120-ML/1424",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "avizor gp multi 120 ml"
     },
     {
       "id": "avizor-avizor-unica-sensitive-350ml",
@@ -974,7 +1019,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "avizor unica sensitive lenzenvloeistof 350 ml"
     },
     {
       "id": "avizor-avizor-unica-sensitive-3x350ml",
@@ -995,7 +1041,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "avizor unica sensitive lenzenvloeistof 3 x 350 ml"
     },
     {
       "id": "avizor-ever-clean-plus-2x350ml",
@@ -1016,7 +1063,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/ever-clean-plus-2x-350ml/9300000015757771/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ever clean plus | 2x 350ml"
     },
     {
       "id": "avizor-ever-clean-plus-reisverpakking-2x350ml",
@@ -1037,7 +1085,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/ever-clean-plus-2-x-350ml-reisverpakking-60ml/9300000236416565/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ever clean plus 2 x 350ml + reisverpakking 60ml"
     },
     {
       "id": "avizor-ever-clean-plus-voordeelpakket-4x350ml",
@@ -1058,7 +1107,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/2x-ever-clean-plus-voordeelpakket-4x-350ml-lenzenvloeistof/9300000239753202/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "2x ever clean plus voordeelpakket - 4x 350ml - lenzenvloeistof"
     },
     {
       "id": "avizor-unica-sensitive-",
@@ -1079,7 +1129,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/avizor-unica-sensitive/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unica sensitive"
     },
     {
       "id": "avizor-unica-sensitive-3x350ml",
@@ -1100,7 +1151,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/unica-sensitive-lenzenvloeistof/9200000132241428/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unica sensitive [3x 350ml] - lenzenvloeistof"
     },
     {
       "id": "avizor-unica-sensitive-flight-",
@@ -1121,7 +1173,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/unica-sensitive-flight-pack/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unica sensitive [flight-pack]"
     },
     {
       "id": "bauschlomb-amo-lens-plus-ocupure-360ml",
@@ -1146,7 +1199,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/lens-plus-ocupure-360ml-p-61566.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "amo lens plus ocupure 360ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-biotrue-multi-purpose-300ml",
@@ -1167,7 +1221,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-biotrue-multi-purpose-solution-lenzenvloeistof/p/6356215",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch + lomb biotrue multi-purpose solution lenzenvloeistof 300ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-biotrue-multi-purpose-3x300ml",
@@ -1188,7 +1243,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-biotrue-multi-purpose-solution-lenzenvloeistof/p/6356173",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch + lomb biotrue multi-purpose solution lenzenvloeistof 3 x 300ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-boston-advance-conditioning-120ml",
@@ -1211,7 +1267,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-boston-advance-conditioning-solution-lensvloeistof/p/5495169",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb boston advance conditioning solution lensvloeistof 120ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-boston-cleaner-lensvloeistof-30ml",
@@ -1234,7 +1291,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-boston-cleaner-lensvloeistof/p/5495148",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb boston cleaner lensvloeistof 30ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-boston-simplus-",
@@ -1257,7 +1315,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-boston-simplus-lenzenvloeistof-special-flight-pack/p/6356355",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch + lomb boston simplus lenzenvloeistof special flight pack"
     },
     {
       "id": "bauschlomb-bausch-lomb-easysept-peroxide-3x360ml",
@@ -1278,7 +1337,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-easysept-peroxide-lenzenvloeistof/p/6356152",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch + lomb easysept peroxide lenzenvloeistof 3 x 360ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-easysept-peroxide-lensvloeistof-360ml",
@@ -1299,7 +1359,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-easysept-peroxide-lensvloeistof/p/5495141",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb easysept peroxide lensvloeistof 360ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-renu-mps-3x360ml",
@@ -1320,7 +1381,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-renu-mps-lenzenvloeistof/p/5497416",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb renu mps lenzenvloeistof 3x 360ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-renu-mps-lensvloeistof-240ml",
@@ -1347,7 +1409,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-mps-sensitive-eyes-lenzenvloeistof-240-ml-110002189.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb renu mps lensvloeistof 240ml"
     },
     {
       "id": "bauschlomb-biotrue-2x300ml",
@@ -1368,7 +1431,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue lenzenvloeistof 2 x 300 ml"
     },
     {
       "id": "bauschlomb-biotrue-300ml",
@@ -1395,7 +1459,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue 300ml"
     },
     {
       "id": "bauschlomb-biotrue-3x300ml",
@@ -1416,7 +1481,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue lenzenvloeistof 3 x 300 ml"
     },
     {
       "id": "bauschlomb-biotrue-4x300ml",
@@ -1437,7 +1503,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue lenzenvloeistof 4 x 300 ml"
     },
     {
       "id": "bauschlomb-biotrue-flight-100ml",
@@ -1470,7 +1537,8 @@
           "productUrl": "https://www.lensonline.nl/biotrue-flight-pack-100ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue flight pack 100 ml"
     },
     {
       "id": "bauschlomb-biotrue-maand-300ml",
@@ -1491,7 +1559,8 @@
           "productUrl": "https://www.lensonline.nl/biotrue-1-maand-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue 1 maand (300ml)"
     },
     {
       "id": "bauschlomb-biotrue-maanden-3x300ml",
@@ -1512,7 +1581,8 @@
           "productUrl": "https://www.lensonline.nl/biotrue-6-maanden-3x-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue 6 maanden (3x 300ml)"
     },
     {
       "id": "bauschlomb-biotrue-mps-",
@@ -1533,7 +1603,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/bausch-and-lomb-biotrue-multi-purpose-solution/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue mps"
     },
     {
       "id": "bauschlomb-biotrue-multi-purpose-3x300ml",
@@ -1554,7 +1625,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue multi-purpose 3x300ml + 100 ml..."
     },
     {
       "id": "bauschlomb-biotrue-multi-purpose-solution-100ml",
@@ -1575,7 +1647,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue multi-purpose solution 100ml"
     },
     {
       "id": "bauschlomb-biotrue-multi-purpose-solution-duopack-2x300ml",
@@ -1596,7 +1669,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue multi-purpose solution duopack 2x300 ml"
     },
     {
       "id": "bauschlomb-biotrue-multi-purpose-solution-multipack-3x300ml",
@@ -1617,7 +1691,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/biotrue-multi-purpose-solution-multipack-3-x-300-ml-lenzenvloeistof/9200000058431259/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue multi-purpose solution multipack - 3 x 300 ml - lenzenvloeistof"
     },
     {
       "id": "bauschlomb-biotrue-multipack-3x300ml",
@@ -1638,7 +1713,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "biotrue multipack 3x300ml"
     },
     {
       "id": "bauschlomb-boston-advance-cleaner-30ml",
@@ -1679,7 +1755,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-cleaner-lenzenvloeistof-30-ml-110002242.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston advance cleaner 30 ml"
     },
     {
       "id": "bauschlomb-boston-advance-conditioner-120ml",
@@ -1708,7 +1785,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-conditioning-solution-lenzenvloeistof-120-ml-110002251.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston advance conditioner 120 ml voor..."
     },
     {
       "id": "bauschlomb-boston-advance-conditioning-solution-120ml",
@@ -1737,7 +1815,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston advance conditioning solution (120ml)"
     },
     {
       "id": "bauschlomb-boston-advance-multipack-",
@@ -1760,7 +1839,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston advance multipack"
     },
     {
       "id": "bauschlomb-boston-cleaner-",
@@ -1783,7 +1863,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-boston-cleaner",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston cleaner"
     },
     {
       "id": "bauschlomb-boston-conditioning-solution-",
@@ -1806,7 +1887,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-boston-conditioning-solution",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston conditioning solution"
     },
     {
       "id": "bauschlomb-boston-simplus-",
@@ -1829,7 +1911,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-boston-simplus",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston simplus"
     },
     {
       "id": "bauschlomb-boston-simplus-flight-2x60ml",
@@ -1852,7 +1935,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston simplus flight pack 2 x 60ml"
     },
     {
       "id": "bauschlomb-boston-simplus-multi-action-120ml",
@@ -1881,7 +1965,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston simplus multi-action 120ml"
     },
     {
       "id": "bauschlomb-boston-simplus-single-120ml",
@@ -1904,7 +1989,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "boston simplus single 120ml"
     },
     {
       "id": "bauschlomb-easysept-360ml",
@@ -1931,7 +2017,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-easysept-lenzenvloeistof-360-ml-110723744.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept 360ml"
     },
     {
       "id": "bauschlomb-easysept-3x360ml",
@@ -1958,7 +2045,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept 3x360ml"
     },
     {
       "id": "bauschlomb-easysept-eco-3x360ml",
@@ -1979,7 +2067,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/easysept-multipack/9300000138988595/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept eco-pack | 3x 360ml"
     },
     {
       "id": "bauschlomb-easysept-maanden-5x360ml",
@@ -2000,7 +2089,8 @@
           "productUrl": "https://www.lensonline.nl/easysept-6-maanden-5x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept 6 maanden (5x360ml)"
     },
     {
       "id": "bauschlomb-easysept-multipack-5x360ml",
@@ -2021,7 +2111,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept multipack 5x360ml"
     },
     {
       "id": "bauschlomb-easysept-solution-",
@@ -2042,7 +2133,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "easysept solution 360?ml"
     },
     {
       "id": "bauschlomb-lens-plus-ocupure-240ml",
@@ -2067,7 +2159,8 @@
           "productUrl": "https://www.lensonline.nl/lens-plus-ocupure-240ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "lens plus ocupure (240ml)"
     },
     {
       "id": "bauschlomb-lens-plus-ocupure-360ml",
@@ -2098,7 +2191,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "lens plus ocupure (360 ml)"
     },
     {
       "id": "bauschlomb-renu-advanced-",
@@ -2119,7 +2213,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/bausch-and-lomb-renu-advanced/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced"
     },
     {
       "id": "bauschlomb-renu-advanced-100ml",
@@ -2140,7 +2235,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced 100 ml"
     },
     {
       "id": "bauschlomb-renu-advanced-360ml",
@@ -2161,7 +2257,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced 360 ml"
     },
     {
       "id": "bauschlomb-renu-advanced-maand-1x360ml",
@@ -2182,7 +2279,8 @@
           "productUrl": "https://www.lensonline.nl/renu-advanced-1-maand-1x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced 1 maand (1x 360ml)"
     },
     {
       "id": "bauschlomb-renu-advanced-month-3x360ml",
@@ -2203,7 +2301,8 @@
           "productUrl": "https://www.lensonline.nl/renu-advanced-6-month-3x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced 6 month (3x360ml)"
     },
     {
       "id": "bauschlomb-renu-advanced-multipack-3x360ml",
@@ -2224,7 +2323,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu advanced multipack 3 x 360ml + 100ml"
     },
     {
       "id": "bauschlomb-renu-mps-multi-purpose-sensitive-3x360ml",
@@ -2245,7 +2345,8 @@
           "productUrl": "https://www.lensonline.nl/renu-mps-multi-purpose-sensitive-eyes-multipack-3-x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps (multi-purpose) sensitive eyes multipack (3 x 360ml)"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-",
@@ -2266,7 +2367,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/bausch-and-lomb-renu-multipurpose-mps-sensitive-eyes/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps [sensitive eyes]"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-360ml",
@@ -2299,7 +2401,8 @@
           "productUrl": "https://www.lensonline.nl/renu-mps-sensitive-eyes-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps sensitive eyes 360ml"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-3x360ml",
@@ -2320,7 +2423,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps sensitive eyes lenzenvloeistof 3 x 360 ml"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-flight-100ml",
@@ -2347,7 +2451,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-mps-flight-pack-sensitive-eyes-100-ml-112123304.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps sensitive eyes flight pack (100ml)"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-flightpack-100ml",
@@ -2368,7 +2473,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps sensitive eyes flightpack 100 ml"
     },
     {
       "id": "bauschlomb-renu-mps-sensitive-eyes-multipack-3x360ml",
@@ -2389,7 +2495,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu mps sensitive eyes multipack 3x360ml..."
     },
     {
       "id": "bauschlomb-renu-multiplus-360ml",
@@ -2410,7 +2517,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus 360ml"
     },
     {
       "id": "bauschlomb-renu-multiplus-3x360ml",
@@ -2431,7 +2539,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus lenzenvloeistof 3 x 360 ml"
     },
     {
       "id": "bauschlomb-renu-multiplus-4x360ml",
@@ -2452,7 +2561,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus lenzenvloeistof 4 x 360 ml"
     },
     {
       "id": "bauschlomb-renu-multiplus-flight-100ml",
@@ -2473,7 +2583,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus flight pack lenzenvloeistof 100 ml"
     },
     {
       "id": "bauschlomb-renu-multiplus-fresh-lens-comfort-",
@@ -2506,7 +2617,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-renu-multi-plus-fresh-lens-comfort-240-ml-120116163.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus fresh lens comfort..."
     },
     {
       "id": "bauschlomb-renu-multiplus-fresh-lens-comfort-100ml",
@@ -2527,7 +2639,8 @@
           "productUrl": "https://www.lensonline.nl/renu-multiplus-fresh-lens-comfort-flightpack-100ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus fresh lens comfort flightpack 100ml"
     },
     {
       "id": "bauschlomb-renu-multiplus-multipack-renu-3x360ml",
@@ -2548,7 +2661,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "[renu multiplus multipack 3x360ml] renu..."
     },
     {
       "id": "bauschlomb-renu-multiplus-solution-maanden-3x360ml",
@@ -2569,7 +2683,8 @@
           "productUrl": "https://www.lensonline.nl/renu-multiplus-solution-6-maanden-3x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multiplus solution 6 maanden (3x 360ml)"
     },
     {
       "id": "bauschlomb-renu-multipurpose-solution-",
@@ -2590,7 +2705,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multipurpose solution 3 pack"
     },
     {
       "id": "bauschlomb-renu-multipurpose-solution-240ml",
@@ -2611,7 +2727,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multipurpose solution 240 ml"
     },
     {
       "id": "bauschlomb-renu-multipurpose-solution-2x60ml",
@@ -2632,7 +2749,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "renu multipurpose solution 2x60 ml"
     },
     {
       "id": "coopervision-quattro-multipurpose-solution-",
@@ -2653,7 +2771,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "quattro multipurpose solution 250?ml"
     },
     {
       "id": "eyefresh-eye-fresh-100ml",
@@ -2674,7 +2793,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/eye-fresh-lenzenvloeistof-alles-in-1-no-rub-mini-100ml-p-35640.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eye fresh lenzenvloeistof alles-in-1 no rub mini 100ml"
     },
     {
       "id": "eyefresh-eye-fresh-240ml",
@@ -2695,7 +2815,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/eye-fresh-lenzenvloeistof-alles-in-1-no-rub-240ml-p-35641.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eye fresh lenzenvloeistof alles-in-1 no rub 240ml"
     },
     {
       "id": "eyefresh-eye-fresh-360ml",
@@ -2716,7 +2837,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/eye-fresh-lenzenvloeistof-alles-in-1-zacht-360ml-p-71489.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eye fresh lenzenvloeistof alles-in-1 zacht 360ml"
     },
     {
       "id": "eyefresh-eye-fresh-all-in-one-200ml",
@@ -2737,7 +2859,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eye fresh all in one solution 200 ml"
     },
     {
       "id": "gelone-gelone-100ml",
@@ -2758,7 +2881,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 100 ml"
     },
     {
       "id": "gelone-gelone-2x360ml",
@@ -2779,7 +2903,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 2 x 360 ml"
     },
     {
       "id": "gelone-gelone-360ml",
@@ -2800,7 +2925,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 360 ml"
     },
     {
       "id": "gelone-gelone-3x360ml",
@@ -2821,7 +2947,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 3 x 360 ml"
     },
     {
       "id": "gelone-gelone-4x360ml",
@@ -2842,7 +2969,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 4 x 360 ml"
     },
     {
       "id": "gelone-gelone-50ml",
@@ -2863,7 +2991,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gelone lenzenvloeistof 50 ml"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-100ml",
@@ -2884,7 +3013,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens lenzenvloeistof 100 ml"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-360ml",
@@ -2905,7 +3035,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens 360ml"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-3x360ml",
@@ -2926,7 +3057,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens lenzenvloeistof 3 x 360 ml"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-maand-360ml",
@@ -2947,7 +3079,8 @@
           "productUrl": "https://www.lensonline.nl/acuvue-revitalens-1-maand-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens 1 maand (360ml)"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-maanden-3x360ml",
@@ -2968,7 +3101,8 @@
           "productUrl": "https://www.lensonline.nl/acuvue-revitalens-6-maanden-3x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens 6 maanden (3x360ml)"
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-multi-purpose-",
@@ -2989,7 +3123,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens multi-purpose..."
     },
     {
       "id": "johnsonjohnson-acuvue-revitalens-travel-solution-100ml",
@@ -3010,7 +3145,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "acuvue revitalens travel pack solution 100ml"
     },
     {
       "id": "johnsonjohnson-totalcare-all-in-one-",
@@ -3033,7 +3169,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/amo-abbott-medical-optics-totalcare-1-all-in-one/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "totalcare 1 all-in-one"
     },
     {
       "id": "johnsonjohnson-totalcare-bewaaroplossing-120ml",
@@ -3056,7 +3193,8 @@
           "productUrl": "https://www.lensonline.nl/totalcare-bewaaroplossing-120ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "totalcare bewaaroplossing (120ml)"
     },
     {
       "id": "johnsonjohnson-totalcare-cleaner-",
@@ -3079,7 +3217,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-totalcare-cleaner",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "totalcare cleaner"
     },
     {
       "id": "johnsonjohnson-totalcare-cleaner-2x15ml",
@@ -3102,7 +3241,8 @@
           "productUrl": "https://www.lensonline.nl/totalcare-cleaner-2x-15ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "totalcare cleaner (2x 15ml)"
     },
     {
       "id": "kruidvat-kruidvat-opticare-all-in-one-240ml",
@@ -3123,7 +3263,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-all-in-one-hyaluron-lensvloeistof-voor-zachte-lenzen/p/5446715",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare all-in-one hyaluron lensvloeistof voor zachte lenzen 240ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-cleaner-step-40ml",
@@ -3144,7 +3285,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-cleaner-step-1/p/19028",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare cleaner step 1 40ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-sensitive-harde-lenzen-100ml",
@@ -3167,7 +3309,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-sensitive-harde-lenzen-all-in-one-lenzenvloeistof/p/4084298",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare sensitive harde lenzen all-in-one lenzenvloeistof 100ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-sensitive-harde-lenzen-240ml",
@@ -3190,7 +3333,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-sensitive-harde-lenzen-all-in-one-lenzenvloeistof/p/839182",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare sensitive harde lenzen all-in-one lenzenvloeistof 240ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-sensitive-zachte-lenzen-100ml",
@@ -3211,7 +3355,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-sensitive-zachte-lenzen-all-in-one-lenzenvloeistof/p/4084312",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare sensitive zachte lenzen all-in-one lenzenvloeistof 100ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-sensitive-zachte-lenzen-240ml",
@@ -3232,7 +3377,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-sensitive-zachte-lenzen-all-in-one-lenzenvloeistof/p/840848",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare sensitive zachte lenzen all-in-one lenzenvloeistof 240ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-zachte-lenzen-all-100ml",
@@ -3253,7 +3399,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-zachte-lenzen-all-in-one-no-rub-lenzenvloeistof/p/4084333",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare zachte lenzen all-in-one no rub lenzenvloeistof 100ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-zachte-lenzen-all-240ml",
@@ -3274,7 +3421,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-zachte-lenzen-all-in-one-lenzenvloeistof/p/25330",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare zachte lenzen all-in-one lenzenvloeistof 240ml"
     },
     {
       "id": "kruidvat-kruidvat-opticare-zachte-lenzen-no-240ml",
@@ -3295,7 +3443,8 @@
           "productUrl": "https://www.kruidvat.nl/kruidvat-opticare-zachte-lenzen-no-rub-lenzenvloeistof/p/653359",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "kruidvat opticare zachte lenzen no rub lenzenvloeistof 240ml"
     },
     {
       "id": "lensonline-eyedefinition-extrasept-5x360ml",
@@ -3316,7 +3465,8 @@
           "productUrl": "https://www.lensonline.nl/eyedefinition-extrasept-5x-360ml-2x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eyedefinition extrasept (5x 360ml + 2x 360ml)"
     },
     {
       "id": "lensonline-eyedefinition-extrasept-peroxide-360ml",
@@ -3337,7 +3487,8 @@
           "productUrl": "https://www.lensonline.nl/eyedefinition-extrasept-peroxide-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eyedefinition extrasept peroxide (360ml)"
     },
     {
       "id": "lensonline-eyedefinition-extrasept-rinsing-saline-solution-360ml",
@@ -3362,7 +3513,8 @@
           "productUrl": "https://www.lensonline.nl/eyedefinition-extrasept-rinsing-saline-solution-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eyedefinition extrasept rinsing (saline solution 360ml)"
     },
     {
       "id": "lensonline-eyedefinition-sensitive-300ml",
@@ -3383,7 +3535,8 @@
           "productUrl": "https://www.lensonline.nl/eyedefinition-sensitive-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eyedefinition sensitive (300ml)"
     },
     {
       "id": "lensonline-eyedefinition-sensitive-3x300ml",
@@ -3404,7 +3557,8 @@
           "productUrl": "https://www.lensonline.nl/eyedefinition-sensitive-3x-300ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "eyedefinition sensitive (3x 300ml)"
     },
     {
       "id": "menicon-menicare-plus-125ml",
@@ -3426,8 +3580,15 @@
           "price": 9.95,
           "productUrl": "",
           "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "lens2day",
+          "price": 10.33,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/menicare-plus-125ml/",
+          "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare plus 125 ml"
     },
     {
       "id": "menicon-menicare-plus-250ml",
@@ -3456,7 +3617,8 @@
           "productUrl": "https://www.lensonline.nl/menicare-plus-250ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare plus 250 ml"
     },
     {
       "id": "menicon-menicare-plus-multipack-3x250ml",
@@ -3479,7 +3641,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare plus multipack 3x 250 ml  + 125 ml"
     },
     {
       "id": "menicon-menicare-plus-progent-intensief-reiniger-",
@@ -3502,7 +3665,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare plus + progent intensief reiniger..."
     },
     {
       "id": "menicon-menicare-plus-voordeelpakket-3x250ml",
@@ -3525,7 +3689,8 @@
           "productUrl": "https://www.lensonline.nl/menicare-plus-voordeelpakket-3x250ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare plus voordeelpakket (3x250ml)"
     },
     {
       "id": "menicon-menicare-pure-250ml",
@@ -3560,7 +3725,8 @@
           "productUrl": "https://www.lensonline.nl/menicare-pure-250ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure 250ml"
     },
     {
       "id": "menicon-menicare-pure-4x250ml",
@@ -3583,7 +3749,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/menicare-pure-lenzenvloeistof-4x-250ml-voordeelverpakking/9300000148509283/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure - lenzenvloeistof | 4x 250ml"
     },
     {
       "id": "menicon-menicare-pure-70ml",
@@ -3612,7 +3779,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/menicare-pure-70-ml",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure 70ml"
     },
     {
       "id": "menicon-menicare-pure-miniset-setje-progent-70ml",
@@ -3635,7 +3803,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure miniset 70ml & 1 setje progent"
     },
     {
       "id": "menicon-menicare-pure-multipack-750ml",
@@ -3658,7 +3827,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure multipack 750ml + 70ml"
     },
     {
       "id": "menicon-menicare-pure-reisverpakking-2x70ml",
@@ -3681,7 +3851,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/menicare-pure-reisverpakking-2x70ml-lenzenvloeistof-harde-lenzen/9300000151566590/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure reisverpakking 2x70ml"
     },
     {
       "id": "menicon-menicare-pure-value-3x250ml",
@@ -3704,7 +3875,8 @@
           "productUrl": "https://www.lensonline.nl/menicare-pure-value-pack-3x-250ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicare pure value pack (3x 250ml)"
     },
     {
       "id": "menicon-menicon-progent-behandelingen-",
@@ -3727,7 +3899,8 @@
           "productUrl": "https://www.lensonline.nl/menicon-progent-5-behandelingen/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "menicon progent (5 behandelingen)"
     },
     {
       "id": "menicon-platincare-menicon-360ml",
@@ -3748,7 +3921,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "platincare 360ml van menicon"
     },
     {
       "id": "menicon-platincare-multipack-1x100ml",
@@ -3769,7 +3943,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "platincare multipack 3x360+1x100ml van..."
     },
     {
       "id": "menicon-platincare-peroxide-menicon-100ml",
@@ -3790,7 +3965,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "platincare peroxide 100ml van menicon"
     },
     {
       "id": "menicon-solocare-aqua-4x360ml",
@@ -3811,7 +3987,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "solocare aqua lenzenvloeistof 4 x 360 ml"
     },
     {
       "id": "menicon-solocare-aqua-90ml",
@@ -3832,7 +4009,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "solocare aqua lenzenvloeistof 90 ml"
     },
     {
       "id": "menicon-solocare-aqua-maanden-3x360ml",
@@ -3853,7 +4031,8 @@
           "productUrl": "https://www.lensonline.nl/solocare-aqua-6-maanden-3x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "solocare aqua 6 maanden (3x 360ml)"
     },
     {
       "id": "menicon-solocare-aqua-menicon-360ml",
@@ -3874,7 +4053,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "solocare aqua 360ml van menicon"
     },
     {
       "id": "menicon-solocare-aqua-menicon-90ml",
@@ -3895,7 +4075,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "solocare aqua 90ml van menicon"
     },
     {
       "id": "ocu-ocucare-comfort-350ml",
@@ -3916,7 +4097,8 @@
           "productUrl": "https://oculenti.nl/product/ocucare-comfort-350ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocucare comfort 350ml"
     },
     {
       "id": "ocu-ocucare-comfort-60ml",
@@ -3937,7 +4119,8 @@
           "productUrl": "https://oculenti.nl/product/ocucare-comfort-60ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocucare comfort 60ml"
     },
     {
       "id": "ocu-ocucare-groen-vernieuwde-formule-100ml",
@@ -3960,7 +4143,8 @@
           "productUrl": "https://oculenti.nl/product/ocucare-60ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocucare groen 100ml (vernieuwde formule)"
     },
     {
       "id": "ocu-ocucare-groen-vernieuwde-formule-200ml",
@@ -3983,7 +4167,8 @@
           "productUrl": "https://oculenti.nl/product/ocucare-120ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocucare groen 200ml (vernieuwde formule)"
     },
     {
       "id": "ocu-ocuclean-vernieuwde-formule-30ml",
@@ -4006,7 +4191,8 @@
           "productUrl": "https://oculenti.nl/product/ocuclean-30ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocuclean 30ml (vernieuwde formule)"
     },
     {
       "id": "ocu-oculens-cleaner-40ml",
@@ -4029,7 +4215,8 @@
           "productUrl": "https://oculenti.nl/product/oculens-cleaner-40ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "oculens cleaner 40ml"
     },
     {
       "id": "ocu-ocurins-ampullen-",
@@ -4054,7 +4241,8 @@
           "productUrl": "https://oculenti.nl/product/ocurins-ampullen/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocurins ampullen"
     },
     {
       "id": "ocu-ocusaline-ampullen-",
@@ -4079,7 +4267,8 @@
           "productUrl": "https://oculenti.nl/product/ocusaline/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocusaline ampullen"
     },
     {
       "id": "ocu-ocusept-",
@@ -4100,7 +4289,8 @@
           "productUrl": "https://oculenti.nl/product/ocusept/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocusept"
     },
     {
       "id": "ocu-ocuzyme-",
@@ -4123,7 +4313,8 @@
           "productUrl": "https://oculenti.nl/product/ocyzyme/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ocuzyme"
     },
     {
       "id": "onbekend-ao-sept-plus-hydraglyde-90ml",
@@ -4144,7 +4335,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ao sept plus hydraglyde lenzenvloeistof 90 ml"
     },
     {
       "id": "onbekend-aosept-plus-1x360ml",
@@ -4165,7 +4357,8 @@
           "productUrl": "https://www.lensonline.nl/aosept-plus-1x360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus (1x360ml)"
     },
     {
       "id": "onbekend-aosept-plus-hydraglyde-1x360ml",
@@ -4186,7 +4379,8 @@
           "productUrl": "https://www.lensonline.nl/aosept-plus-hydraglyde-1x-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "aosept plus hydraglyde (1x 360ml)"
     },
     {
       "id": "onbekend-bausch-lomb-cleaner-",
@@ -4209,7 +4403,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/bausch-en-lomb-cleaner",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb cleaner"
     },
     {
       "id": "onbekend-bausch-lomb-comfort-formula-conditioner-",
@@ -4232,7 +4427,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb comfort formula conditioner..."
     },
     {
       "id": "onbekend-bausch-lomb-conditioning-solution-lensvloeistof-120ml",
@@ -4253,7 +4449,8 @@
           "productUrl": "https://www.kruidvat.nl/bausch-lomb-conditioning-solution-lensvloeistof/p/5495127",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch & lomb conditioning solution lensvloeistof 120ml"
     },
     {
       "id": "onbekend-gp-multi-alles-in-n-",
@@ -4276,7 +4473,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/avizor-gp-multi-alles-in-een/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "gp multi alles-in-een"
     },
     {
       "id": "onbekend-laim-care-400ml",
@@ -4297,7 +4495,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "laim care lenzenvloeistof 400 ml"
     },
     {
       "id": "onbekend-laim-care-peroxide-vloeistof-4x360ml",
@@ -4318,7 +4517,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "laim care peroxide vloeistof 4 x 360 ml"
     },
     {
       "id": "onbekend-lensplus-ocupure-saline-solution-240ml",
@@ -4343,7 +4543,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "lensplus ocupure saline solution 240ml"
     },
     {
       "id": "onbekend-saline-zoutoplossing-spoelen-100ml",
@@ -4368,7 +4569,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "saline zoutoplossing voor spoelen 100 ml"
     },
     {
       "id": "onbekend-saline-zoutoplossing-spoelen-500ml",
@@ -4393,7 +4595,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "saline zoutoplossing voor spoelen 500 ml"
     },
     {
       "id": "onbekend-vloeistofpakket-occ-",
@@ -4416,7 +4619,8 @@
           "productUrl": "https://oculenti.nl/product/ocucare-comfort-pakket/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "vloeistofpakket occ"
     },
     {
       "id": "onbekend-vloeistofpakket-sra-",
@@ -4439,7 +4643,8 @@
           "productUrl": "https://oculenti.nl/product/vloeistofpakket-sra/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "vloeistofpakket sra"
     },
     {
       "id": "ophtecs-cleadew-gp-",
@@ -4462,7 +4667,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ophtecs-cleadew-gp/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew gp"
     },
     {
       "id": "ophtecs-cleadew-gp-hydra-one-",
@@ -4485,7 +4691,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ophtecs-cleadew-gp-hydra-one/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew gp hydra one"
     },
     {
       "id": "ophtecs-cleadew-gp-hydra-one-360ml",
@@ -4508,7 +4715,8 @@
           "productUrl": "https://www.lensonline.nl/cleadew-gp-hydra-one-360ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew gp hydra one 360ml"
     },
     {
       "id": "ophtecs-cleadew-mps-",
@@ -4529,7 +4737,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ophtecs-cleadew-mps/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew mps"
     },
     {
       "id": "ophtecs-cleadew-sl-",
@@ -4550,7 +4759,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ophtecs-cleadew-sl/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew sl"
     },
     {
       "id": "ophtecs-cleadew-soft-",
@@ -4571,7 +4781,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ophtecs-cleadew-soft/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "cleadew soft"
     },
     {
       "id": "oteoptics-ot-clean-40ml",
@@ -4592,7 +4803,8 @@
           "productUrl": "https://www.lensonline.nl/ote-clean-40ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote clean (40ml)"
     },
     {
       "id": "oteoptics-ot-fine-100ml",
@@ -4613,7 +4825,8 @@
           "productUrl": "https://www.lensonline.nl/ote-fine-100ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote fine (100ml)"
     },
     {
       "id": "oteoptics-ot-saline-",
@@ -4638,7 +4851,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/ote-saline",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote saline"
     },
     {
       "id": "oteoptics-ot-saline-ampullen-",
@@ -4663,7 +4877,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/ote-saline-ampullen",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote saline ampullen"
     },
     {
       "id": "oteoptics-ot-saline-ampullen-30x10ml",
@@ -4688,7 +4903,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/ote-saline-lenzenvloeistof/9200000072767380/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote saline [30x 10ml ampullen] lenzenvloeistof"
     },
     {
       "id": "oteoptics-ot-sensation-",
@@ -4709,7 +4925,8 @@
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/ote-sensation/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote sensation"
     },
     {
       "id": "oteoptics-ot-sensation-all-in-one-3x300ml",
@@ -4730,7 +4947,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/ote-sensation-all-in-one-value-pack-lenzenvloeistof/9300000157276274/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote sensation all-in-one value pack (3 x 300 ml) lenzenvloeistof"
     },
     {
       "id": "oteoptics-ote-clean-",
@@ -4753,7 +4971,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-zacht/ote-clean",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote clean"
     },
     {
       "id": "oteoptics-ote-fine-",
@@ -4776,7 +4995,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-ote-fine-100ml-pstuk",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote fine"
     },
     {
       "id": "oteoptics-ote-fine-multipack-",
@@ -4799,7 +5019,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/ote-fine-multipack-2x-200ml/9200000132657564/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote fine multipack"
     },
     {
       "id": "oteoptics-ote-one-step-",
@@ -4822,7 +5043,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/2x-ote-one-step",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote one step"
     },
     {
       "id": "oteoptics-ote-pure-",
@@ -4845,7 +5067,8 @@
           "productUrl": "https://www.contactlenzen.net/lenzenvloeistof-hard/ote-pure",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "ote pure"
     },
     {
       "id": "unicare-unicare-all-in-one-solution-240ml",
@@ -4866,7 +5089,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unicare all in one solution 240 ml"
     },
     {
       "id": "unicare-unicare-alles-in-n-vloeistof-200ml",
@@ -4889,7 +5113,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/drogist/unicare-alles-in-een-vloeistof-harde-lenzen-200ml.htm",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unicare alles-in-een vloeistof harde lenzen 200ml"
     },
     {
       "id": "unicare-unicare-rinsing-solution-naci-",
@@ -4914,7 +5139,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unicare rinsing solution 0.9% naci 30 stuks"
     },
     {
       "id": "unicare-unicare-saline-360ml",
@@ -4945,7 +5171,8 @@
           "productUrl": "https://www.deonlinedrogist.nl/drogist/unicare-saline-lenzenvloeistof-360ml.htm",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unicare saline lenzenvloeistof 360ml"
     },
     {
       "id": "vitaresearch-regard-",
@@ -4965,8 +5192,15 @@
           "price": 12.28,
           "productUrl": "https://www.123lens.nl/lenzenvloeistof/vita-research-regard/",
           "lastChecked": "2026-04-12"
+        },
+        {
+          "shopId": "lens2day",
+          "price": 10.7,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/regard-reisverpakking/",
+          "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "regard"
     },
     {
       "id": "vitaresearch-regard-alles-in-n-3x355ml",
@@ -4987,7 +5221,8 @@
           "productUrl": "https://www.bol.com/nl/nl/p/regard-alles-in-een-lenzenvloeistof-3x-355ml/9200000110011148/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "regard alles-in-een lenzenvloeistof | 3x 355ml"
     },
     {
       "id": "vitaresearch-regard-multi-purpose-1x355ml",
@@ -5008,7 +5243,8 @@
           "productUrl": "https://www.lensonline.nl/regard-multi-purpose-1-x-355ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "regard multi purpose (1 x 355ml)"
     },
     {
       "id": "vitaresearch-regard-multi-purpose-maanden-3x355ml",
@@ -5029,7 +5265,8 @@
           "productUrl": "https://www.lensonline.nl/regard-multi-purpose-6-maanden-3x355ml/",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "regard multi purpose 6 maanden (3x355ml)"
     },
     {
       "id": "vitaresearch-regard-zacht-voordeelpakket-",
@@ -5050,7 +5287,8 @@
           "productUrl": "https://www.lens.nl/Regard-zacht-voordeelpakket/185",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "regard zacht voordeelpakket"
     },
     {
       "id": "etos-etos-zachte-lenzen-all-in-360ml",
@@ -5071,7 +5309,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-all-in-1-vloeistof-360-ml-120288475.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos zachte lenzen all-in-1 vloeistof 360 ml"
     },
     {
       "id": "etos-etos-zachte-lenzen-no-rub-360ml",
@@ -5092,7 +5331,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-no-rub-all-in-1-vloeistof-360-ml-120288504.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos zachte lenzen no rub all-in-1 vloeistof 360 ml"
     },
     {
       "id": "etos-etos-all-in-zachte-lenzen-100ml",
@@ -5113,7 +5353,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-all-in-1-zachte-lenzen-vloeistof-100-ml-111151944.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos all-in-1 zachte lenzen vloeistof 100 ml"
     },
     {
       "id": "etos-etos-conditioner-harde-lenzen-100ml",
@@ -5136,7 +5377,8 @@
           "productUrl": "",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos conditioner harde lenzen vloeistof 100 ml"
     },
     {
       "id": "etos-etos-all-in-harde-lenzen-100ml",
@@ -5159,7 +5401,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-all-in-1-harde-lenzen-vloeistof-100-ml-111151936.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos all-in-1 harde lenzen vloeistof 100 ml"
     },
     {
       "id": "bauschlomb-bausch-lomb-concentrated-cleaner-30ml",
@@ -5180,7 +5423,8 @@
           "productUrl": "https://www.etos.nl/producten/bausch-%2B-lomb-concentrated-cleaner-lenzenvloeistof-30-ml-110002171.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "bausch + lomb concentrated cleaner lenzenvloeistof 30 ml"
     },
     {
       "id": "unicare-unicare-vitaaie-zachte-lenzen-250ml",
@@ -5201,7 +5445,8 @@
           "productUrl": "https://www.etos.nl/producten/unicare-vita%2Baie-vloeistof-zachte-lenzen-250-ml-120903204.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "unicare vita+aie vloeistof zachte lenzen 250 ml"
     },
     {
       "id": "etos-etos-cleaner-alle-typen-lenzen-40ml",
@@ -5226,7 +5471,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-cleaner-alle-typen-lenzen-40-ml-120331453.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos cleaner alle typen lenzen 40 ml"
     },
     {
       "id": "etos-etos-harde-lenzen-all-in-360ml",
@@ -5249,7 +5495,8 @@
           "productUrl": "https://www.etos.nl/producten/etos-harde-lenzen-all-in-1-vloeistof-360-ml-120288539.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos harde lenzen all-in-1 vloeistof 360 ml"
     },
     {
       "id": "etos-etos-zachte-lenzen-no-rub-100ml",
@@ -5270,7 +5517,438 @@
           "productUrl": "https://www.etos.nl/producten/etos-zachte-lenzen-no-rub-all-in-1-vloeistof-100-ml-120331533.html",
           "lastChecked": "2026-04-12"
         }
-      ]
+      ],
+      "searchName": "etos zachte lenzen no rub all-in-1 vloeistof 100 ml"
+    },
+    {
+      "id": "johnsonjohnson-amo-totalcare-cleaner-30ml",
+      "name": "AMO TotalCare Cleaner 30 ML 30ML",
+      "brand": "Johnson & Johnson",
+      "category": "reiniging",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": 30,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "dedrogist",
+          "price": 8.95,
+          "productUrl": "https://www.deonlinedrogist.nl/totalcare-cleaner-30-ml-p-49218.html",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "amo totalcare cleaner 30 ml 30ml"
+    },
+    {
+      "id": "oteoptics-ote-monosept-360ml",
+      "name": "Ote monosept 360 ml",
+      "brand": "OTE Optics",
+      "category": "bewaar",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 11.57,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/ote-monosept-360-ml/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote monosept 360 ml"
+    },
+    {
+      "id": "alcon-optifree-puremoist-x-megapack-4x300ml",
+      "name": "Optifree PureMoist 4x300ml Megapack",
+      "brand": "Alcon",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 300,
+      "units": 4,
+      "totalVolumeMl": 1200,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 31.82,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/optifree-puremoist-4x300ml-megapack/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "optifree puremoist 4x300ml megapack"
+    },
+    {
+      "id": "oteoptics-ot-hydro-shield-360ml",
+      "name": "Oté Hydro-Shield 360ml",
+      "brand": "OTE Optics",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 10.33,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/ote-hydro-shield-2/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote hydro-shield 360ml"
+    },
+    {
+      "id": "alcon-optifree-puremoist-duopack-x-2x300ml",
+      "name": "Optifree PureMoist Duopack 2x300ml",
+      "brand": "Alcon",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 300,
+      "units": 2,
+      "totalVolumeMl": 600,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 16.53,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/optifree-puremoist-duopack-2x300ml/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "optifree puremoist duopack 2x300ml"
+    },
+    {
+      "id": "oteoptics-ot-sensation-250ml",
+      "name": "Oté sensation platte fles 250ml",
+      "brand": "OTE Optics",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 250,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 9.05,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/ote-sensation-platte-fles-250ml/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote sensation platte fles 250ml"
+    },
+    {
+      "id": "oteoptics-ot-sensation-100ml",
+      "name": "Oté Sensation - reisverpakking 100ml",
+      "brand": "OTE Optics",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 100,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 10.7,
+          "productUrl": "",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote sensation - reisverpakking 100ml"
+    },
+    {
+      "id": "disop-hidro-health-ha-x-3x360ml",
+      "name": "Hidro Health HA 3x 360ml",
+      "brand": "Disop",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": 3,
+      "totalVolumeMl": 1080,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 28.1,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/hidro-health/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "hidro health ha 3x 360ml"
+    },
+    {
+      "id": "bauschlomb-renu-mps-sensitive-",
+      "name": "ReNu MPS Sensitive- reisverpakking",
+      "brand": "Bausch & Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 10.7,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/renu-mps-sensitive-reis/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "renu mps sensitive- reisverpakking"
+    },
+    {
+      "id": "bauschlomb-renu-multiplus-",
+      "name": "ReNu Multiplus - reisverpakking",
+      "brand": "Bausch & Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 10.7,
+          "productUrl": "",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "renu multiplus - reisverpakking"
+    },
+    {
+      "id": "bauschlomb-renu-mps-sensitive-",
+      "name": "ReNu MPS Sensitive",
+      "brand": "Bausch & Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 24.38,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/renu-mps-sensitive/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "renu mps sensitive"
+    },
+    {
+      "id": "oteoptics-ote-saline-x-2x360ml",
+      "name": "Ote Saline 2 x 360 ml",
+      "brand": "OTE Optics",
+      "category": "spoeling",
+      "compatibleLensTypes": [
+        "soft",
+        "hard",
+        "scleral",
+        "hybrid",
+        "ortho_k"
+      ],
+      "volumeMl": 360,
+      "units": 2,
+      "totalVolumeMl": 720,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 17.31,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/ote-saline-2-x-360-ml/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote saline 2 x 360 ml"
+    },
+    {
+      "id": "oteoptics-ot-sensation-multipack-x-x-3x360ml",
+      "name": "Oté Sensation Multipack 3x 360ml + 1x 100ml",
+      "brand": "OTE Optics",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": 360,
+      "units": 3,
+      "totalVolumeMl": 1080,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 27.69,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/contactlensvloeistof/ote-sensation-multipack/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "ote sensation multipack 3x 360ml + 1x 100ml"
+    },
+    {
+      "id": "alcon-aosept-plus-hydraglyde-single-",
+      "name": "AOsept Plus HydraGlyde single",
+      "brand": "Alcon",
+      "category": "bewaar",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 14.46,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/aosept-plus-hydraglyde/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "aosept plus hydraglyde single"
+    },
+    {
+      "id": "vitaresearch-regard-k-",
+      "name": "Regard K®",
+      "brand": "Vita Research",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 12.36,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/regard-k/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "regard k"
+    },
+    {
+      "id": "menicon-menicare-plus-",
+      "name": "Menicare plus - reisverpakking",
+      "brand": "Menicon",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 10.7,
+          "productUrl": "",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "menicare plus - reisverpakking"
+    },
+    {
+      "id": "bauschlomb-biotrue-",
+      "name": "Biotrue - reisverpakking",
+      "brand": "Bausch & Lomb",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 11.57,
+          "productUrl": "",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "biotrue - reisverpakking"
+    },
+    {
+      "id": "vitaresearch-regard-k-harde-lenzen-",
+      "name": "Regard K®- reisverpakking harde lenzen",
+      "brand": "Vita Research",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "hard",
+        "scleral",
+        "ortho_k"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 12.36,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/regard-k-reisverpakking/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "regard k- reisverpakking harde lenzen"
+    },
+    {
+      "id": "vitaresearch-regard-",
+      "name": "Regard®",
+      "brand": "Vita Research",
+      "category": "alles_in_1",
+      "compatibleLensTypes": [
+        "soft"
+      ],
+      "volumeMl": null,
+      "units": null,
+      "totalVolumeMl": null,
+      "description": "",
+      "prices": [
+        {
+          "shopId": "lens2day",
+          "price": 24.79,
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/regard/",
+          "lastChecked": "2026-04-12"
+        }
+      ],
+      "searchName": "regard"
     }
   ]
 }
