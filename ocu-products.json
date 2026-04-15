@@ -280,7 +280,7 @@
         {
           "shopId": "visiondirect",
           "price": 31.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=OXYsept®+3x300+ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -302,13 +302,13 @@
         {
           "shopId": "lensdeal",
           "price": 11.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/oxysept-1-step-300ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 12.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/oxysept-1-step-300-ml-vloeistof",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -330,7 +330,7 @@
         {
           "shopId": "lensdeal",
           "price": 29.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/oxysept-1-step-multipack-3x300ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -352,7 +352,7 @@
         {
           "shopId": "lensdeal",
           "price": 13.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-360ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -402,7 +402,7 @@
         {
           "shopId": "lensdeal",
           "price": 14.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-hydraglyde-360ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -430,7 +430,7 @@
         {
           "shopId": "lensdeal",
           "price": 80.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-hydraglyde-duopack-3-x-720ml-90-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -452,7 +452,7 @@
         {
           "shopId": "lensdeal",
           "price": 27.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-hydraglyde-duopack-720ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -496,7 +496,7 @@
         {
           "shopId": "lensdeal",
           "price": 51.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-hydraglyde-multipack-5x360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -518,7 +518,7 @@
         {
           "shopId": "lensdeal",
           "price": 8.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-hydraglyde-travel-pack-90ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -540,7 +540,7 @@
         {
           "shopId": "lensdeal",
           "price": 46.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/aosept-plus-multipack-4x360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -562,7 +562,7 @@
         {
           "shopId": "alensa",
           "price": 21.69,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-express-2-x-355-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -584,13 +584,13 @@
         {
           "shopId": "lensdeal",
           "price": 13.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/opti-free-express-355ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 11.49,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-express-3-x-355-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -612,7 +612,7 @@
         {
           "shopId": "alensa",
           "price": 29.79,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-express-3-x-355-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -678,7 +678,7 @@
         {
           "shopId": "lensdeal",
           "price": 25.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/opti-free-express-multipack-3x355ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -729,7 +729,7 @@
         {
           "shopId": "alensa",
           "price": 26.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-puremoist-2-x-300-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -758,13 +758,13 @@
         {
           "shopId": "lensdeal",
           "price": 12.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/opti-free-puremoist-300ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 13.89,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-puremoist-3-x-300-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -793,7 +793,7 @@
         {
           "shopId": "alensa",
           "price": 38.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-puremoist-3-x-300-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -828,7 +828,7 @@
         {
           "shopId": "alensa",
           "price": 11.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/opti-free-puremoist-90-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -944,7 +944,7 @@
         {
           "shopId": "lensdeal",
           "price": 42.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/-opti-free-puremoist-megapack-4x300ml-opti-free-puremoist-megapack-4x300ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -979,7 +979,7 @@
         {
           "shopId": "lensdeal",
           "price": 8.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/opti-free-puremoist-travel-pack-90ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1008,7 +1008,7 @@
         {
           "shopId": "lensdeal",
           "price": 31.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/opti-free-puremoist-triple-pack-3x300ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1149,7 +1149,7 @@
         {
           "shopId": "alensa",
           "price": 10.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/avizor-unica-sensitive-350-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1171,7 +1171,7 @@
         {
           "shopId": "alensa",
           "price": 29.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/avizor-unica-sensitive-3-x-350-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1567,7 +1567,7 @@
         {
           "shopId": "alensa",
           "price": 20.49,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/biotrue-lenzenvloeistof-2-x-300-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1589,13 +1589,13 @@
         {
           "shopId": "lensdeal",
           "price": 10.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/biotrue-300ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 11.79,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/search?q=Biotrue+300ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1617,7 +1617,7 @@
         {
           "shopId": "alensa",
           "price": 30.59,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/biotrue-lenzenvloeistof-3-x-300-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1639,7 +1639,7 @@
         {
           "shopId": "alensa",
           "price": 40.49,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/biotrue-lenzenvloeistof-4x-300-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1661,13 +1661,13 @@
         {
           "shopId": "lensdeal",
           "price": 7.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/biotrue-flight-pack-100-ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 6.59,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/biotrue-vloeistof-flight-pack-100-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -1768,7 +1768,7 @@
         {
           "shopId": "lensdeal",
           "price": 29.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/biotrue-multi-purpose-3x300ml-100-ml-flight-pack",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1790,7 +1790,7 @@
         {
           "shopId": "visiondirect",
           "price": 7.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Biotrue+Multi-Purpose+Solution+100ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1812,7 +1812,7 @@
         {
           "shopId": "visiondirect",
           "price": 20.49,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Biotrue®+Multi-Purpose+Solution+DuoPack+2x300+ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1856,7 +1856,7 @@
         {
           "shopId": "lensdeal",
           "price": 26.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/biotrue-multipack-3x300ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1880,7 +1880,7 @@
         {
           "shopId": "lensdeal",
           "price": 8.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/boston-advance-cleaner-30-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -1892,7 +1892,7 @@
         {
           "shopId": "visiondirect",
           "price": 14.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Boston+Advance+cleaner+30+ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -1922,7 +1922,7 @@
         {
           "shopId": "lensdeal",
           "price": 9.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/boston-advance-conditioner-120-ml-voor-harde-lenzen.",
           "lastChecked": "2026-04-12"
         },
         {
@@ -1958,7 +1958,7 @@
         {
           "shopId": "visiondirect",
           "price": 14.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Boston+Advance+Conditioning+Solution+(120ml)",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -1982,7 +1982,7 @@
         {
           "shopId": "visiondirect",
           "price": 38.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Boston+Advance+Multipack",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2078,7 +2078,7 @@
         {
           "shopId": "lensdeal",
           "price": 10.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/boston-simplus-flight-pack-2-x-60ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2102,13 +2102,13 @@
         {
           "shopId": "lensdeal",
           "price": 9.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/boston-simplus-multi-action-120ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 14.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/boston-simplus-multi-action-vloeistof-120-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2132,7 +2132,7 @@
         {
           "shopId": "visiondirect",
           "price": 28.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Boston+Simplus®+Single+120ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2154,7 +2154,7 @@
         {
           "shopId": "lensdeal",
           "price": 13.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/easysept-360ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -2182,13 +2182,13 @@
         {
           "shopId": "lensdeal",
           "price": 29.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/easysept-3x360ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "visiondirect",
           "price": 30.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=EasySept+3x360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2254,7 +2254,7 @@
         {
           "shopId": "lensdeal",
           "price": 39.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/easysept-multipack-5x360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2276,7 +2276,7 @@
         {
           "shopId": "visiondirect",
           "price": 12.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=EasySept®+Solution+360?ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2340,7 +2340,7 @@
         {
           "shopId": "visiondirect",
           "price": 11.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Lens+Plus+Ocupure+(360+ml)",
           "lastChecked": "2026-04-12"
         },
         {
@@ -2397,7 +2397,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-advanced-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2426,7 +2426,7 @@
         {
           "shopId": "lensdeal",
           "price": 13.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-advanced-360-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -2519,7 +2519,7 @@
         {
           "shopId": "lensdeal",
           "price": 41.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-advanced-multipack-3-x-360ml-100ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2598,13 +2598,13 @@
         {
           "shopId": "lensdeal",
           "price": 12.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-mps-sensitive-eyes-360ml",
           "lastChecked": "2026-04-12"
         },
         {
           "shopId": "alensa",
           "price": 10.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/renu-mps-sensitive-eyes-oplossing-3-x-360-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -2645,7 +2645,7 @@
         {
           "shopId": "alensa",
           "price": 30.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/renu-mps-sensitive-eyes-oplossing-3-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2715,7 +2715,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-mps-sensitive-eyes-flightpack-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2744,7 +2744,7 @@
         {
           "shopId": "lensdeal",
           "price": 23.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-mps-sensitive-eyes-multipack-3x360ml-1x60ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2773,7 +2773,7 @@
         {
           "shopId": "lensdeal",
           "price": 10.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-multiplus-360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2802,7 +2802,7 @@
         {
           "shopId": "alensa",
           "price": 25.69,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/renu-multiplus-3-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2831,7 +2831,7 @@
         {
           "shopId": "alensa",
           "price": 32.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/renu-multiplus-4-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2860,7 +2860,7 @@
         {
           "shopId": "alensa",
           "price": 5.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/renu-multiplus-vloeistof-flight-pack-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -2889,7 +2889,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/renu-multiplus-fresh-lens-comfort-flightpack-100-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -2959,7 +2959,7 @@
         {
           "shopId": "lensdeal",
           "price": 25.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/-renu-multiplus-multipack-3x360ml-renu-multiplus-multipack-3x360ml-1x60ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3017,7 +3017,7 @@
         {
           "shopId": "visiondirect",
           "price": 21.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=ReNu®+Multipurpose+Solution®+3+Pack",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3039,7 +3039,7 @@
         {
           "shopId": "visiondirect",
           "price": 8.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=ReNu®+Multipurpose+Solution®+240+ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3061,7 +3061,7 @@
         {
           "shopId": "visiondirect",
           "price": 13.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=ReNu®+Multipurpose+Solution®+2x60+ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3083,7 +3083,7 @@
         {
           "shopId": "visiondirect",
           "price": 17.99,
-          "productUrl": "",
+          "productUrl": "https://www.visiondirect.nl/search?q=Quattro®+Multipurpose+Solution+250?ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3177,7 +3177,7 @@
         {
           "shopId": "lensdeal",
           "price": 4.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/eye-fresh-all-in-one-solution-200-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3199,7 +3199,7 @@
         {
           "shopId": "alensa",
           "price": 4.89,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3221,7 +3221,7 @@
         {
           "shopId": "alensa",
           "price": 16.15,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-2-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3243,7 +3243,7 @@
         {
           "shopId": "alensa",
           "price": 8.95,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3265,7 +3265,7 @@
         {
           "shopId": "alensa",
           "price": 22.75,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-3-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3287,7 +3287,7 @@
         {
           "shopId": "alensa",
           "price": 29.79,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-4-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3309,7 +3309,7 @@
         {
           "shopId": "alensa",
           "price": 3.45,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/gelone-lenzenvloeistof-50-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3331,7 +3331,7 @@
         {
           "shopId": "alensa",
           "price": 4.95,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/acuvue-revitalens-lenzenvloeistof-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3360,7 +3360,7 @@
         {
           "shopId": "lensdeal",
           "price": 9.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/acuvue-revitalens-360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3389,7 +3389,7 @@
         {
           "shopId": "alensa",
           "price": 29.95,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/acuvue-revitalens-lenzenvloeistof-3x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3476,7 +3476,7 @@
         {
           "shopId": "lensdeal",
           "price": 21.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/acuvue-revitalens-multi-purpose-disinfecting-solution-multipack-3x360ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3505,7 +3505,7 @@
         {
           "shopId": "lensdeal",
           "price": 6.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/acuvue-revitalens-travel-pack-solution-100ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -3956,7 +3956,7 @@
         {
           "shopId": "lensdeal",
           "price": 9.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-plus-125-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -3986,7 +3986,7 @@
         {
           "shopId": "lensdeal",
           "price": 11.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-plus-250-ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -4016,7 +4016,7 @@
         {
           "shopId": "lensdeal",
           "price": 41.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-plus-multipack-3x-250-ml-125-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4040,7 +4040,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-plus-progent-intensief-reiniger-50-ml-2-x-5-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4088,7 +4088,7 @@
         {
           "shopId": "lensdeal",
           "price": 11.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-pure-250ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -4148,7 +4148,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-pure-70ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -4178,7 +4178,7 @@
         {
           "shopId": "lensdeal",
           "price": 10.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-pure-miniset-70ml-1-setje-progent",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4202,7 +4202,7 @@
         {
           "shopId": "lensdeal",
           "price": 39.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/vloeistof-voor-harde-contactlenzen/menicare-pure-multipack-750ml-70ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4296,7 +4296,7 @@
         {
           "shopId": "lensdeal",
           "price": 12.5,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/platincare-360ml-van-menicon",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4318,7 +4318,7 @@
         {
           "shopId": "lensdeal",
           "price": 38.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/platincare-multipack-3x3601x100ml-van-menicon",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4340,7 +4340,7 @@
         {
           "shopId": "lensdeal",
           "price": 5.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/platincare-peroxide-100ml-van-menicon",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4362,7 +4362,7 @@
         {
           "shopId": "alensa",
           "price": 39.69,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/solocare-aqua-lenzenvloeistof-4-x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4384,7 +4384,7 @@
         {
           "shopId": "alensa",
           "price": 5.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/solocare-aqua-90-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4428,7 +4428,7 @@
         {
           "shopId": "lensdeal",
           "price": 9.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/solocare-aqua-360ml-van-menicon",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4450,7 +4450,7 @@
         {
           "shopId": "lensdeal",
           "price": 4.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/solocare-aqua-90ml-van-menicon",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4710,7 +4710,7 @@
         {
           "shopId": "alensa",
           "price": 8.79,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/ao-sept-plus-hydraglyde-lenzenvloeistof-90-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4802,7 +4802,7 @@
         {
           "shopId": "lensdeal",
           "price": 10.49,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/bausch-lomb-comfort-formula-conditioner-120-ml-voor-harde-contactlenzen",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4870,7 +4870,7 @@
         {
           "shopId": "alensa",
           "price": 11.49,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/laim-care-400-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4892,7 +4892,7 @@
         {
           "shopId": "alensa",
           "price": 39.29,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/laim-care-peroxide-vloeistof-4x-360-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4918,7 +4918,7 @@
         {
           "shopId": "lensdeal",
           "price": 6.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/solutions-abbott/lensplus-ocupure-saline-solution-240ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4944,7 +4944,7 @@
         {
           "shopId": "alensa",
           "price": 4.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/queen-s-saline-zoutoplossing-voor-spoelen-100-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -4970,7 +4970,7 @@
         {
           "shopId": "alensa",
           "price": 7.99,
-          "productUrl": "",
+          "productUrl": "https://www.alensa.nl/queen-s-saline-zoutoplossing-voor-spoelen-500-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -5464,7 +5464,7 @@
         {
           "shopId": "lensdeal",
           "price": 7.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/contactlenzenvloeistof/unicare-all-in-one-solution-240-ml",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -5514,7 +5514,7 @@
         {
           "shopId": "lensdeal",
           "price": 14.95,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/unicare/unicare-rinsing-solution-0.9-naci-30-stuks",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -5540,7 +5540,7 @@
         {
           "shopId": "lensdeal",
           "price": 4.99,
-          "productUrl": "",
+          "productUrl": "https://lensdeal.nl/saline/unicare-saline-lenzenvloeistof-360ml",
           "lastChecked": "2026-04-12"
         },
         {
@@ -5755,7 +5755,7 @@
         {
           "shopId": "etos",
           "price": 4.29,
-          "productUrl": "",
+          "productUrl": "https://www.etos.nl/optiek/lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -6058,7 +6058,7 @@
         {
           "shopId": "lens2day",
           "price": 10.7,
-          "productUrl": "",
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -6131,7 +6131,7 @@
         {
           "shopId": "lens2day",
           "price": 10.7,
-          "productUrl": "",
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -6285,7 +6285,7 @@
         {
           "shopId": "lens2day",
           "price": 10.7,
-          "productUrl": "",
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -6307,7 +6307,7 @@
         {
           "shopId": "lens2day",
           "price": 11.57,
-          "productUrl": "",
+          "productUrl": "https://www.lens2day.nl/lenzenvloeistof/",
           "lastChecked": "2026-04-12"
         }
       ],
@@ -6870,7 +6870,7 @@
         {
           "shopId": "pearle",
           "price": 17.9,
-          "productUrl": "https://www.pearle.nl",
+          "productUrl": "https://www.pearle.nl/lenzenvloeistof",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -6892,7 +6892,7 @@
         {
           "shopId": "pearle",
           "price": 13.9,
-          "productUrl": "https://www.pearle.nl",
+          "productUrl": "https://www.pearle.nl/lenzenvloeistof",
           "lastChecked": "2026-04-12"
         }
       ]
@@ -6914,7 +6914,7 @@
         {
           "shopId": "pearle",
           "price": 12.9,
-          "productUrl": "https://www.pearle.nl",
+          "productUrl": "https://www.pearle.nl/lenzenvloeistof",
           "lastChecked": "2026-04-12"
         }
       ]
